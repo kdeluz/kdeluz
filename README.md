@@ -32,6 +32,7 @@ I'm **Kei**, a passionate developer based in Canada. I love building things that
 - I love learning new projects and discovering the things people can do with them.
 - I like the winter! ❄️
 - I love video games, specifically RPG's.
+- I read a lot of manga. 📖
 - I'm always open to connecting and sharing ideas!
 
 Thanks for stopping by! 👋🚀
