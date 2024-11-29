@@ -24,7 +24,7 @@ I'm **Kei**, a passionate developer based in Canada. I love building things that
 
 ## 📈 Stats & Activities
 ![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&theme=radical)
-- **🎵 Discord Spotify Bot**: Share and play music collaboratively with server friends!
+- **🎵 Discord Spotify Bot**: A Discord.js bot that can allow you to share and play music collaboratively with server friends!
 - **🛍️ lolitemshop**: A Ruby on Rails application that utilizes the Riot Games API to fetch and display item data from League of Legends.
 - **🃏 youyugioh**: An e-commerce platform built with Ruby on Rails, designed to facilitate the purchase of Yu-Gi-Oh! cards, simulating a fictional Winnipeg-based business.
 
