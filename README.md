@@ -5,6 +5,8 @@
 
 # Hey there! 👋 Welcome to my GitHub
 
+*"So let there be no way back. From that temptation I sunder us. No more shall man have wings to bear him to paradise. Henceforth, he shall walk."*
+
 I'm **Kei**, a passionate developer based in Canada. I love building things that make life easier, whether that's through web applications, APIs, or even a fun Discord bot! Here's a little about me:
 
 ---
