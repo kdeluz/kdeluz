@@ -1,3 +1,4 @@
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=kdeluz&color=blueviolet) <img alt="followers" src="https://img.shields.io/github/followers/kdeluz?label=Followers&style=social">
 
 <!--- [![Kei's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kdeluz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) --->
@@ -36,7 +37,7 @@ I'm **Kei**, a passionate developer based in Canada. I love building things that
 - I'm always open to connecting and sharing ideas!
 
 Thanks for stopping by! 👋🚀
-
+</div>
 
 <!---
 kdeluz/kdeluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
