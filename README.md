@@ -1,63 +1,68 @@
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=kdeluz&color=blueviolet) 
-![Followers](https://img.shields.io/github/followers/kdeluz?label=Followers&style=social)
 
-# Hey there! 👋 Welcome to my GitHub
+![Profile Views](https://komarev.com/ghpvc/?username=kdeluz&color=blueviolet)
+[![Followers](https://img.shields.io/github/followers/kdeluz?label=Followers&logo=github&style=flat)](https://github.com/kdeluz?tab=followers)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-?style=flat&logo=github)](https://github.com/kdeluz?tab=repositories)
+[![Last Commit](https://img.shields.io/github/last-commit/kdeluz/kdeluz?label=Last%20update&style=flat)](https://github.com/kdeluz/kdeluz/commits/main)
 
-*"So let there be no way back. From that temptation I sunder us. No more shall man have wings to bear him to paradise. Henceforth, he shall walk."*
+# Hey, I’m Kei
 
-I'm **Kei**, a passionate developer based in Canada. I love building things that make life easier, whether that's through web applications, APIs, or even a fun Discord bot! Here's a little about me:
+*“So let there be no way back. From that temptation I sunder us. No more shall man have wings to bear him to paradise. Henceforth, he shall walk.”*
 
----
+I build practical tools—CRMs, APIs, and the occasional Discord bot—to make everyday workflows smoother.
 
 </div>
 
-## 🛠️ Tech Stack & Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdeluz&layout=compact&theme=radical)
+---
 
-- **Languages:** JavaScript, Python, TypeScript, SQL  
-- **Backend:** Prisma, FastAPI, Supabase, Node.js  
-- **Frontend:** React, Next.js, React Native, Expo, HTML, CSS  
-- **Dev Tools:** Git, Docker, VS Code, Postman  
+## What I’m doing now
+- Shipping a client CRM with **Next.js + Prisma**.
+- A **Discord Gacha Bot** made for my friends to handle pack openings and a TCG feel to it.
+- Sharpening data models and seeding flows for project/task systems.
+
+## Toolbox
+
+<!-- Tech badges kept compact and readable -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=222&style=flat)
+![Expo](https://img.shields.io/badge/Expo-000?logo=expo&logoColor=white&style=flat)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+
+## Selected projects
+- **Discord Gacha Bot** — A bot heavily influenced by Nadeko Bot; focused on creating a TCG booster pack opening.
+- **Custom CRM** - A CRM made from the ground up using NextJS and Prisma, for a Winnipeg Client.  
+- **lolitemshop** — Small Rails app pulling data from the **Riot Games API**.  
+- **youyugioh** — An e-commerce mock-up for Yu-Gi-Oh! cards.
+
+## Learning & leveling up
+- Advanced **Prisma** patterns (relations, seeding strategies, migrations)  
+- Hardening REST APIs and improving test coverage  
+- Better DX: scripts, templates, and repeatable dev environments
 
 ---
 
-## 🚀 What I'm Working On
-- Building a CRM for a client using Next.js, Prisma, and Docker to streamline customer interactions and data management.  
-- Developing a Discord bot that curates playlists and can join voice channels to play music, integrating with Spotify's API.  
-- Creating intuitive task management systems with Prisma, focusing on seeding, schema alignment, and project-based workflows.  
+## Stats (lightweight)
+<!-- These cards can be noisy; kept to two and a simple theme -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&hide_title=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdeluz&layout=compact&theme=transparent)
 
 ---
 
-## 🌱 What I'm Learning
-- React with Next.js + Prisma for developing a functional CRM.  
-- Advanced Prisma and FastAPI concepts for scaling backend services.  
-- Improving RESTful API development to better integrate different components of my projects.  
-
----
-
-## 📈 Stats & Activities
-![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&theme=radical)
-- **🎵 Discord Spotify Bot:** A Discord.js bot that allows collaborative music sharing and playback with server friends!  
-- **🛍️ lolitemshop:** A Ruby on Rails app utilizing Riot Games API to fetch and display League of Legends item data.  
-- **🃏 youyugioh:** An e-commerce platform for Yu-Gi-Oh! cards, simulating a fictional Winnipeg-based business.  
-
----
-
-## ✨ Fun Facts About Me
-- I love learning new projects and exploring creative possibilities.  
-- Winter is my favorite season! ❄️  
-- I'm a fan of RPG video games. 🎮  
-- I read a lot of manga. 📖  
-- Always open to connecting and sharing ideas!  
-
----
-
-Thanks for stopping by! 👋🚀
-
-
-<!---
-kdeluz/kdeluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## A bit about me
+- Based in Canada. I like winter, RPGs, and long walks on the beach.  
+- Open to collaborating on useful tools and well-scoped features.  
+- Best way to reach me: open an issue or ping me on GitHub.
