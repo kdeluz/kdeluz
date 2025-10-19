@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kdeluz&color=blueviolet)
 [![Followers](https://img.shields.io/github/followers/kdeluz?label=Followers&logo=github&style=flat)](https://github.com/kdeluz?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-?style=flat&logo=github)](https://github.com/kdeluz?tab=repositories)
 [![Last Commit](https://img.shields.io/github/last-commit/kdeluz/kdeluz?label=Last%20update&style=flat)](https://github.com/kdeluz/kdeluz/commits/main)
 
 # Hey, I’m Kei
@@ -57,7 +56,7 @@ I build practical tools—CRMs, APIs, and the occasional Discord bot—to make e
 
 ## Stats
 <!-- These cards can be noisy; kept to two and a simple theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&hide_title=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdeluz&layout=compact&theme=transparent)
 
 ---
