@@ -55,7 +55,7 @@ I build practical tools—CRMs, APIs, and the occasional Discord bot—to make e
 
 ---
 
-## Stats (lightweight)
+## Stats
 <!-- These cards can be noisy; kept to two and a simple theme -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&hide_title=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdeluz&layout=compact&theme=transparent)
