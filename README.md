@@ -1,8 +1,8 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kdeluz&color=blueviolet)
-[![Followers](https://img.shields.io/github/followers/kdeluz?label=Followers&logo=github&style=flat)](https://github.com/kdeluz?tab=followers)
-[![Last Commit](https://img.shields.io/github/last-commit/kdeluz/kdeluz?label=Last%20update&style=flat)](https://github.com/kdeluz/kdeluz/commits/main)
+![Profile Views](https://komarev.com/ghpvc/?username=kylejd&color=blueviolet)
+[![Followers](https://img.shields.io/github/followers/kylejd?label=Followers&logo=github&style=flat)](https://github.com/kylejd?tab=followers)
+[![Last Commit](https://img.shields.io/github/last-commit/kylejd/kylejd?label=Last%20update&style=flat)](https://github.com/kylejd/kylejd/commits/main)
 
 # kei
 
@@ -45,8 +45,8 @@ the work is usually: figure out what someone actually needs → build the smalle
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kdeluz&show_icons=true&hide_title=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdeluz&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylejd&show_icons=true&hide_title=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylejd&layout=compact&theme=transparent)
 
 ---
 
